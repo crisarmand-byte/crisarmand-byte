@@ -1,6 +1,6 @@
-# Hi, I’m Cristina 👋  
+# Hi, I’m Cristina 
 
-🌍 Creative technologist • MarTech leader • Writer • Builder of human-centered AI  
+Creative technologist • MarTech leader • Writer • Builder of human-centered AI  
 
 ---
 
@@ -10,16 +10,15 @@ I’m a **transformational leader driving brand success, customer experience, an
 
 I’ve worn many hats—branding consultant, Chief Culture Officer, MarTech Director, Salesforce enabler, AI keynote speaker. But my story goes deeper:  
 
-- 🌎 **Venezuela → U.S. → Mexico** → Migrated through reinvention. Home can be portable.  
-- 🎹 Played keyboards at *Felabration 2016* in Oakland, in front of 500 people.  
-- 🎥 Produced a music video for Elvis Crespo & Ilegales as my first gig in Mexico.  
-- 💼 Grew into **Data & Insights Manager → Chief Culture Officer → MarTech Director**.  
-- 🎓 Salesforce certified & enabled **25+ teammates** to earn their certifications.  
-- 🇲🇽 Became a **Mexican citizen with highest exam score** after 8 years of resilience.  
-- 🎤 Today, I lead a MarTech team across the Americas and give **keynotes on AI** at international conferences.  
-- ✍️ I'm writting and deciding to spend **more time by the ocean**.
-- 
-I’m fluent in **Spanish, English, and Portuguese**, and I believe technology is only as powerful as the dignity and accessibility it creates.  
+- **Venezuela → U.S. → Mexico** → Migrated through reinvention. Home can be portable.  
+- Played keyboards at *Felabration 2016* in Oakland, in front of 500 people.  
+- Produced a music video for Elvis Crespo & Ilegales as my first gig in Mexico.  
+- Grew into **Data & Insights Manager → Chief Culture Officer → MarTech Director**.  
+- Salesforce certified & enabled **25+ teammates** to earn their certifications.  
+- Became a **Mexican citizen with highest exam score** after 8 years of resilience.  
+- Today, I lead a MarTech team across the Americas and give **keynotes on AI** at international conferences.  
+- I'm writting and deciding to spend **more time by the ocean**.
+- I’m fluent in **Spanish, English, and Portuguese**, and I believe technology is only as powerful as the dignity and accessibility it creates.  
 
 ---
 
