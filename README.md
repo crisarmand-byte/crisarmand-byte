@@ -53,7 +53,7 @@ I believe in **technology that elevates humanity**: tools that give voice to the
 
 - https://www.linkedin.com/in/cristinaarmand
 - https://cargocollective.com/armandcristina
-- cris.armandœgmail.com
+- cris.armand@gmail.com
 
 ---
 
