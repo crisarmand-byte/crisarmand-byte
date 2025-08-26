@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 
 I’m a **transformational leader driving brand success, customer experience, and innovation. My work sits at the intersection of **technology, creativity, and human resilience.**  
 
@@ -17,13 +17,13 @@ I’ve worn many hats—branding consultant, Chief Culture Officer, MarTech Dire
 - 🎓 Salesforce certified & enabled **25+ teammates** to earn their certifications.  
 - 🇲🇽 Became a **Mexican citizen with highest exam score** after 8 years of resilience.  
 - 🎤 Today, I lead a MarTech team across the Americas and give **keynotes on AI** at international conferences.  
-- ✍️ I'm writting and deciding to spend more time by the ocean.
+- ✍️ I'm writting and deciding to spend **more time by the ocean**.
 - 
 I’m fluent in **Spanish, English, and Portuguese**, and I believe technology is only as powerful as the dignity and accessibility it creates.  
 
 ---
 
-## 🌱 What I’m Building  
+## What I’m Building  
 
 - **AI Accessibility & Voice Tech** → exploring how human-like speech changes lives.  
 - **ClarifAI (pre-MVP)** → an Explainable AI tool translating black-box AI into plain language.  
@@ -32,7 +32,7 @@ I’m fluent in **Spanish, English, and Portuguese**, and I believe technology i
 
 ---
 
-## 🛠️ Skills & Tools  
+## 🛠Skills & Tools  
 
 - **Strategy**: I have ideas on how to solve problems.
 - **CRM & MarTech**: Salesforce, Pardot, Marketing Automation, CX strategy  
@@ -42,16 +42,7 @@ I’m fluent in **Spanish, English, and Portuguese**, and I believe technology i
 
 ---
 
-## 📌 Featured Projects  
-
-- 🔊 **AI Voice for Accessibility** → Demos inspired by ElevenLabs mission (coming soon)  
-- 📊 **MarTech Automation Scripts** → CRM connectors, audience segmentation models  
-- 🧠 **ClarifAI (MVP concept)** → Modular, role-specific Explainable AI architecture  
-- ✍️ **Nuée Ardente** → Literary work-in-progress blending history, ancestry & creativity  
-
----
-
-## 💡 Philosophy  
+## Philosophy  
 
 > *“Free WiFi.”*  
 
@@ -59,11 +50,11 @@ I believe in **technology that elevates humanity**: tools that give voice to the
 
 ---
 
-## 🔗 Let’s Connect  
+## How to Reach Me  
 
-- 💼 [[LinkedIn](https://www.linkedin.com/in/cristinaarmand/) 
-- 📚 [Blog](https://cargocollective.com/armandcristina)
-- 📧 [Email](cris.armandœgmail.com)
+- (https://www.linkedin.com/in/cristinaarmand)
+- (https://cargocollective.com/armandcristina)
+- (cris.armandœgmail.com)
 
 ---
 
